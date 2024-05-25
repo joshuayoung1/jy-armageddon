@@ -1,0 +1,6 @@
+project_id  = "smiling-algebra-416401" //"smiling-algebra-416401"
+region      = "us-east1"               //"us-east1"
+zone        = "us-east1-b"             //"us-east1-b"
+credentials = "balerica-key.json"      //"balerica-key.json"
+location    = "US"
+bucket_url  = "https://storage.googleapis.com/"
